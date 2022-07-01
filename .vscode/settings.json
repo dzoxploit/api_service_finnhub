@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "env/bin/python",
+  "python.analysis.extraPaths": ["./api_sevice"],
+  "python.analysis.logLevel": "Trace"
+}
